@@ -1,3 +1,4 @@
+```mermaid
 graph TD
     subgraph "고객 접점"
         A[HTS/MTS/Web] -- 주문/조회 --> B{API Gateway}
